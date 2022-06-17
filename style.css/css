@@ -1,0 +1,41 @@
+.nav-link {
+    color: rgb(12 18 20 / 30%);
+}
+
+.navbar{
+    background-color: rgba(34, 25, 112, 0.336)
+}
+
+.imglogo{
+    width: 3rem;
+    height:3rem;
+}
+.w-100{
+    height: 50vh;
+}
+.card-img-top{
+    height: 35vh;
+}
+.backgg{
+    background-color: rgba(34, 25, 112, 0.336);
+    padding-top: 10vh;
+}
+.anchoform{
+    max-width: 40vw;
+}
+.backggg{
+    background-color: rgba(34, 25, 112, 0.336);
+    
+}
+.paddingti{
+    padding-top: 5vh;
+}
+.listfooter{
+    list-style: none;
+}
+.img-fluid{
+    width: 100vw;
+}
+.btn{
+    background-color: brown;
+}
